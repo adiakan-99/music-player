@@ -62,6 +62,10 @@ h2 {
     font-size: 1rem;
 }
 
+.control {
+    cursor: pointer;
+}
+
 .icons {
     display: flex;
     justify-content: space-evenly;
